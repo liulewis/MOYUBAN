@@ -1,0 +1,5 @@
+{
+  "buildCommand": "pnpm build",
+  "outputDirectory": "dist/static",
+  "installCommand": "npm install -g pnpm && pnpm install"
+}
